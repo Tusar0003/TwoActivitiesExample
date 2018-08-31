@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoActivitiesExample</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_setting">Setting</string>
+    <string name="button_new_activity">Open New Activity</string>
+</resources>
